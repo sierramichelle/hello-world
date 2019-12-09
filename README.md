@@ -1,6 +1,6 @@
 # hello-world
 
-Hey @manicsparkle,
+Hey @manicsparkle
 
 I'd like to talk about one of my childhood favorite T.V. channels, *Nickelodeon*!
 
@@ -13,7 +13,7 @@ Another show I often binged was *Hey Arnold!* This was about a fourth grader liv
 
 *Blue's Clues* was by far my all time favorite. It followed a blue dog that left pawprints on things she wanted Steve to find. Once he found all of the clues, we would figure out what Blue wanted to do that day.
 I still remember the day Steve went off to college and left his brother Josh behind to watch over Blue. I was heartbroken and I think that's about the time I stopped watching the show.:cry: Blue's Clues was one of my \*all time\* favorites because of how interactive it was.
-![Blue & Steve](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjLz6qt-ajmAhVNnp4KHVcWC9cQjRx6BAgBEAQ&url=https%3A%2F%2Few.com%2Ftv%2F2018%2F03%2F07%2Fyou-could-be-the-next-host-of-blues-clues%2F&psig=AOvVaw0iZheCHb2tkI4ttOgA2kmG&ust=1575994007547364) 
+![Blue & Steve](https://s1.r29static.com/bin/entry/d26/x,80/1649415/image.jpg) 
 
 All in all I think my list of these favorites would have to look like
 1. Blue's Clues :blue_heart:

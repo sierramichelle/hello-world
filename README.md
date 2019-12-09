@@ -2,7 +2,9 @@
 
 Hey @manicsparkle
 
+```javascript
 I'd like to talk about one of my childhood favorite T.V. channels, *Nickelodeon*!
+```
 
 One Nickelodeon show came out in 1998, and though I was born in 1999, I watched it a lot as a kid. It wasn't my all time favorite show, but my uncle watched it **a lot** while babysitting me, so naturally, I grew up loving it.
 *CatDog* follows a cat and a dog attatched to each other. Dog is seen as sort of dumb while Cat masterminds a lot of their antics and how to resolve their issues, of which there are many. 
@@ -35,7 +37,6 @@ Jimmy Neutron | 2002-2006
 The Fairly OddParents | 2001-2017
 Danny Phantom | 2004-2007
 
-'''javascript
 Have I rewatched any of these shows recently?
 - Blue's Clues
 - [x] CatDog
@@ -44,6 +45,6 @@ Have I rewatched any of these shows recently?
 - Jimmy Neutron
 - The Fairly OddParents
 - [x] Danny Phantom
-'''
+
 
 For more information visit [Nickelodeon's Wikipedia Page](https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Nickelodeon)

@@ -29,6 +29,7 @@ A more general list of other shows I liked around this time include
 * Danny Phantom
 
 Show Name | Years Ran
+------------ | -------------
 Blue's Clues | 1996-2006
 CatDog | 1998-2005
 Hey Arnold! | 1996-2004

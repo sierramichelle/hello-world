@@ -35,15 +35,15 @@ Jimmy Neutron | 2002-2006
 The Fairly OddParents | 2001-2017
 Danny Phantom | 2004-2007
 
-''''javascript
+'''javascript
 Have I rewatched any of these shows recently?
-- [] Blue's Clues
+- Blue's Clues
 - [x] CatDog
-- [] Hey Arnold!
+- Hey Arnold!
 - [x] Spongebob Squarepants
-- [] Jimmy Neutron
-- [] The Fairly OddParents
+- Jimmy Neutron
+- The Fairly OddParents
 - [x] Danny Phantom
-''''
+'''
 
 For more information visit [Nickelodeon's Wikipedia Page](https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Nickelodeon)

@@ -42,7 +42,7 @@ Have I rewatched any of these shows recently?
 - [x] CatDog
 - Hey Arnold!
 - [x] Spongebob Squarepants
-- Jimmy Neutron
+[] Jimmy Neutron
 - The Fairly OddParents
 - [x] Danny Phantom
 
